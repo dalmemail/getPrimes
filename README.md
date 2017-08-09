@@ -11,11 +11,11 @@ getPrimes is under the terms of the GNU General Public License v3. It's free sof
 
 ## Compilation
 ### GNU/Linux Distributions
-  $ git clone https://github.com/dalmemail/getPrimes && cd getPrimes
-  $ gcc -Wall getPrimes.c -o getPrimes
+  `$ git clone https://github.com/dalmemail/getPrimes && cd getPrimes`
+  `$ gcc -Wall getPrimes.c -o getPrimes`
 
 ## Usage
-  $ ./getPrimes number
+  `$ ./getPrimes number`
 
 This shall return all prime numbers from '2' to 'number'
 
